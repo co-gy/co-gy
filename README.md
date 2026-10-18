@@ -1,6 +1,8 @@
 ## Hi, I'm co-gy 👋
 
-Master's student at the Okumura-Funakoshi Lab, Institute of Science Tokyo. Focused on applied NLP and AI.
+Master's student at the Okumura-Funakoshi Lab, Institute of Science Tokyo. 
+
+Working on machine translation, with industry experience building AI agents.
 
 Love Sichuan hotpot, board games, and long walks.
 
